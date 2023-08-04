@@ -3,8 +3,8 @@
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'fcd1c472-09d5-4894-bcf5-a44863646d95'}
-WEB_USERNAME=${WEB_USERNAME:-'admin'}
-WEB_PASSWORD=${WEB_PASSWORD:-'password'}
+WEB_USERNAME=${WEB_USERNAME:-'tatop'}
+WEB_PASSWORD=${WEB_PASSWORD:-'qwq10010'}
 
 generate_config() {
   cat > /tmp/config.json << EOF
